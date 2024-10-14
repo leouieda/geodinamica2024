@@ -12,13 +12,17 @@ The reveal.js configuration can be found in index.html
 </div>
 
 <h1 id="talk-title">
-  A long talk title that may <br>be kind of boring and <br>more than one line long
+  Euler inversion
 </h1>
+<div class="large">
+<p>Locating sources of potential-field data through inversion of Euler's homogeneity equation
+</p>
+</div>
 <p id="talk-authors">
   <a href="https://www.leouieda.com" id="talk-speaker">Leonardo Uieda</a>,
-  Author Two,
-  and
-  Author Three
+  Gelson F. Souza-Junior,
+  India Uppal,
+  Vanderlei C. Oliveira Jr.
 </p>
 
 <!-- Place location and date side-by-side with affiliation logos -->
@@ -26,9 +30,9 @@ The reveal.js configuration can be found in index.html
 <div class="col-large">
 
 <i class="fa fa-calendar-alt" style="margin: 0 10px 0 0"></i>
-XX Month 202X
+16 Outubro 2024
 <span style="margin: 0 20px"></span>
-Event/host of the talk
+Seminários da Geodinâmica
 
 <!-- Permission to reuse and CC-BY license logo -->
 <i class="fa fa-camera" style="margin: 0 10px 0 0"></i>
@@ -50,6 +54,14 @@ Feel free to screenshot/share/reuse this presentation
 
 </div>
 </div>
+
+===============================================================================
+
+<!-- .slide: class="slide-transition" -->
+
+# A transition slide <br> with a large title
+
+...and some text.
 
 ===============================================================================
 
